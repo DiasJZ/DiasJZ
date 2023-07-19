@@ -1,4 +1,4 @@
-# Opa eu sou o joão Vitor Dias👋
+# Opa eu sou o João Vitor Dias👋
 > Tenho 19 Anos, Moro no Rio de Janeiro(RJ) e programar se tornou meu hobby, seja pra aplicar ou estudar estou sempre disposto a aprender coisas novas na prática ou nos estudos, vejo sempre que tudo se torna exelente quando exercitado constantemente
 
 ## Meus Contatos
