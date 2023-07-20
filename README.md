@@ -17,7 +17,8 @@
 <img align="center" alt="Dias-PHP" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png">
 
 ## Meus Contatos
-> [Instagram](https://www.instagram.com/diasz_jao/) / [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-dias-51b54925b/) / [Email]()
+<a href="https://www.instagram.com/diasz_jao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-dias-51b54925b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!---
 DiasZinX/DiasZinX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
