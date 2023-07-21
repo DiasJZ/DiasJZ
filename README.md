@@ -1,5 +1,5 @@
 # Opa eu sou o João Vitor Dias👋
-> Tenho 19 Anos, Moro no Rio de Janeiro(RJ) e programar se tornou meu hobby, seja pra aplicar ou estudar estou sempre disposto a aprender coisas novas e botar na prática, vejo sempre que tudo se torna exelente quando exercitado constantemente
+> Tenho 19 Anos, Moro no Rio de Janeiro(RJ) e programar se tornou meu hobby, seja pra aplicar ou estudar estou sempre disposto a aprender coisas novas e botar em prática, vejo sempre que tudo se torna exelente quando exercitado constantemente
 
  <div>
   <a href="https://github.com/DiasJZ">
