@@ -14,7 +14,8 @@
 <img align="center" alt="Dias-Typescript" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/typescript/typescript-original.svg">
 <img align="center" alt="Dias-React" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg">
 <img align="center" alt="Dias-Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/angularjs/angularjs-original.svg">
-<img align="center" alt="Dias-PHP" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png">
+<img align="center" alt="Dias-PHP" height="35" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png">
+<img align="center" alt="Dias-Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg">
 
 ## Contatos
 <a href="https://www.instagram.com/diasz_jao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
