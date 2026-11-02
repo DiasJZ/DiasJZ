@@ -18,7 +18,7 @@ Sempre gostei de entender como as coisas funcionam e de transformar ideias em al
 
 Foi justamente essa curiosidade que me levou para a programação e continua sendo uma das coisas que mais gosto na área: **aprender, experimentar tecnologias diferentes e encontrar maneiras melhores de resolver problemas**.
 
-Hoje meu foco está principalmente no desenvolvimento **Full Stack**, especialmente com tecnologias web, mas gosto de continuar explorando outras linguagens, ferramentas e conceitos conforme surgem novos desafios.
+Hoje meu foco está principalmente no desenvolvimento **Full Stack**, com foco em back-end, APIs e persistência de dados, mas gosto de continuar explorando outras linguagens, ferramentas e conceitos conforme surgem novos desafios.
 
 📍 Rio de Janeiro, Brasil
 
