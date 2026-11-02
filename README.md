@@ -28,6 +28,12 @@ Hoje meu foco está principalmente no desenvolvimento **Full Stack**, com foco e
 
 <div align="center">
 
+<a href="https://github.com/stats-organization/github-stats-extended">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DiasJZ&amp;layout=compact&amp;hide_title=true&amp;hide_border=true&amp;bg_color=0d1117&amp;text_color=c9d1d9&amp;card_width=500&amp;exclude_repo=DiasJZ" alt="Linguagens nos meus repositórios públicos, por proporção de código"/>
+</a>
+
+<br>
+
 ### Back-end & Dados
 
 <img src="https://skillicons.dev/icons?i=java,nodejs,python,php,mysql,postgres" alt="Java, Node.js, Python, PHP, MySQL e PostgreSQL"/>
@@ -43,12 +49,6 @@ Hoje meu foco está principalmente no desenvolvimento **Full Stack**, com foco e
 ### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Git, GitHub, Docker e VS Code"/>
-
-<br><br>
-
-<a href="https://github.com/stats-organization/github-stats-extended">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DiasJZ&amp;layout=compact&amp;hide_title=true&amp;hide_border=true&amp;bg_color=0d1117&amp;text_color=c9d1d9&amp;card_width=500&amp;exclude_repo=DiasJZ" alt="Linguagens nos meus repositórios públicos, por proporção de código"/>
-</a>
 
 </div>
 
