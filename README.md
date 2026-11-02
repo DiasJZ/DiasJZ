@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:14344A,60:28648A,100:B86A47&amp;text=Jo%C3%A3o%20Vitor%20Dias&amp;fontSize=43&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer&amp;descAlignY=58&amp;descSize=19" alt="João Vitor Dias — Full Stack Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:14344A,60:28648A,100:B86A47&amp;text=Jo%C3%A3o%20Vitor%20Dias&amp;fontSize=43&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer&amp;descAlignY=58&amp;descSize=19" alt="João Vitor Dias — Software Engineer"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?color=E5A26B&amp;size=22&amp;center=true&amp;vCenter=true&amp;width=650&amp;duration=3500&amp;pause=1000&amp;repeat=true&amp;lines=Full+Stack+Developer" alt="Full Stack Developer"/>
+<img src="https://readme-typing-svg.demolab.com/?color=E5A26B&amp;size=22&amp;center=true&amp;vCenter=true&amp;width=650&amp;duration=3500&amp;pause=3000&amp;repeat=true&amp;lines=Full+Stack+Developer" alt="Full Stack Developer"/>
 
 </div>
 
