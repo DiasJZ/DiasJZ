@@ -46,11 +46,9 @@ Hoje meu foco está principalmente no desenvolvimento **Full Stack**, especialme
 
 <br><br>
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiasJZ&amp;theme=github_dark&amp;exclude_repos=DiasJZ" alt="Linguagens predominantes nos meus repositórios — GitHub Profile Summary Cards"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DiasJZ&amp;layout=compact&amp;hide_title=true&amp;hide_border=true&amp;bg_color=0d1117&amp;text_color=c9d1d9&amp;card_width=500&amp;exclude_repo=DiasJZ" alt="Linguagens nos meus repositórios públicos, por proporção de código"/>
 </a>
-
-<sub>Distribuição por linguagem principal dos repositórios.</sub>
 
 </div>
 
