@@ -1,0 +1,39 @@
+name: Atualizar linguagens do perfil
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 9 * * *'
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_languages.py
+      - .github/workflows/languages.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-languages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+      - name: Gerar gráfico com dados públicos
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_languages.py
+      - name: Salvar gráfico atualizado
+        run: |
+          git add assets/languages.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: update public language chart'
+          git push
