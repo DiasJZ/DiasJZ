@@ -34,9 +34,9 @@ Hoje meu foco está principalmente no desenvolvimento **Full Stack**, com foco e
 
 <br>
 
-### Back-end & Dados
+### Back-end
 
-<img src="https://skillicons.dev/icons?i=java,nodejs,python,php,mysql,postgres" alt="Java, Node.js, Python, PHP, MySQL e PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=java,nodejs,python,php" alt="Java, Node.js, Python e PHP"/>
 
 <br>
 
@@ -46,9 +46,9 @@ Hoje meu foco está principalmente no desenvolvimento **Full Stack**, com foco e
 
 <br>
 
-### Ferramentas
+### Ferramentas & Dados
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Git, GitHub, Docker e VS Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,mysql,postgres" alt="Git, GitHub, Docker, VS Code, MySQL e PostgreSQL"/>
 
 </div>
 
