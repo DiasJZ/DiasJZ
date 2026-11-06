@@ -54,8 +54,6 @@ Hoje meu foco está principalmente no desenvolvimento **Full Stack**, com foco e
 
 ---
 
-## 🤝 Onde me encontrar
-
 <div align="center">
 
 <a href="mailto:joaovdias55@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail"/></a>
